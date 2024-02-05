@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Protest+Riot&display=swap');
+
+
+body {
+    background-color: skyblue;
+}
+
+.heading{
+    text-align: center;
+}
+
+.Betroot-heading {
+    color: rgb(178, 76, 175);
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 5rem;
+}
+
+.picture {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.ingredients {
+    color: darkslategrey;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    color: darkslateblue;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 1px solid red;
+    margin: 0 auto;
+    width: 75%;
+}
+
+
+.footer {
+    color: rgb(36, 1, 36);
+    font-family: "Protest Riot", sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
